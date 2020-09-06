@@ -1,0 +1,81 @@
+﻿<html>
+<head>
+<title> ingrese sus datos  </title>
+</head>
+<body background="chica.jpeg" >
+<table border=1  width= 100% >
+<tr height=40>
+
+      <td width=50%> <center> Nuevas ofertas cada dia  </td>
+      <td width=50%> <center> <font color=black> contactenos </td>
+     
+</tr>
+
+<table border=1  width= 100% >
+<p>
+      <td width=20%>  <center> <font color=black> Mujeres </td>
+      <td width=20%>  <center> <font color=black> Hombres   </td>
+      <td width=20%>  <center> <font color=black>  Niños  </td>
+      <td width=20%>  <center> <font color=black>  Basicos  </td>
+      <td width=20%>  <center> <font color=black> Lo Nuevo  </td>
+    
+</tr>
+      
+<table border=1  width= 100% >
+      <td width=40%>   <font color=black face="time newromaw"size"6"> <b> INGRESE SUS DATOS   </td>
+      <td width=60%>   <font color=black>    </td>
+
+<tr height=40>
+           <td>
+    <label class=estilo1> Nombre:</label>
+<br>
+</br>
+    <input type="text" class=estilo2 >
+           </td>
+
+</tr>
+<tr height=40>
+           <td>
+    <label class=estilo1> Apellidos:</label>
+<br>
+</br>
+    <input type="text" class=estilo2 >
+           </td>
+
+</tr>
+<tr height=40>
+           <td>
+    <label class=estilo1> Numero de celular:</label>
+<br>
+</br>
+    <input type="text" class=estilo2 >
+           </td>
+
+</tr>
+<tr height=40>
+           <td>
+    <label class=estilo1> correo electromico:</label>
+<br>
+</br>
+    <input type="text" class=estilo2 >
+           </td>
+
+</tr>
+<tr height=40>
+           <td>
+
+   <label class=estilo1> contraseña:</label>
+   <br>
+   </br>
+    <input type="password" class="estilo2"/>
+           </td>
+
+
+<tr height=40>
+           <td>
+    <label class=estilo1>  Pais de origen</label>
+
+
+
+
+
